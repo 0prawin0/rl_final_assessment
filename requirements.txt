@@ -1,0 +1,10 @@
+torch
+pandas
+numpy 
+scipy
+torchvision 
+torchaudio
+scikit-learn
+#gymnasium
+matplotlib
+tqdm
